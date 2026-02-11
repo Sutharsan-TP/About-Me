@@ -1,100 +1,15 @@
-<!-- ===================================== -->
-<!-- 🥇 CYBERPUNK GOLD HEADER -->
-<!-- ===================================== -->
+# 💫 About Me:
+Computer Science undergraduate passionate about building real-world tech solutions through hackathons, full-stack development, and applied AI. I enjoy turning problem statements into working products — from dashboards and platforms to ML-driven systems — and I’m especially active in competitive hackathons and product-style engineering builds. My focus areas include DSA, backend systems, cloud, and intelligent applications, and I’m steadily growing toward production-grade system design and scalable architecture. I also enjoy learning languages (both programming and human languages), and I bring strong consistency, fast execution, and collaborative energy into every team I work with.<br><br>I’m currently working on:<br>Hackathon products, DSA-driven platforms, security and AI-powered systems, and full-stack dashboards with modern web stacks.<br><br>I’m looking to collaborate on:<br>Hackathons, developer tools, cloud/AI projects, student startup ideas, and impactful real-world problem statements.<br><br>I’m looking for help with:<br>Advanced system design, cloud infrastructure at scale, security engineering, and production AI deployment.<br><br>I’m currently learning:<br>Advanced DSA, cloud computing, applied ML systems, backend architecture, and Japanese.<br><br>Ask me about:<br>Hackathons, rapid prototyping, DSA prep, building dashboards, student tech competitions, and turning ideas into working demos.<br><br>Quote:<br>In the midst of chaos, there is also opportunity ✨
 
-<div align="center">
 
-<img src="https://svg-banners.vercel.app/api?type=glitch&text1=SUTHARSAN T.P.&width=900&height=200" />
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__.sudhu.___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sutharsantp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudhuacademics@gmail.com) 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A"/>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sutharsan-TP&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sutharsan-TP&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sutharsan-TP&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=900&color=F5E36A&center=true&vCenter=true&width=1100&height=60&lines=C%2B%2B%2C+Python+%26+Java+Programmer;700%2B+LeetCode+Problems+Solved;Full-Stack+Developer+(Flutter%2C+React%2C+Express.js%2C+Firebase);AI%2FML+Enthusiast;National+Hackathon+1st+Runner-Up+%E2%80%94+HackSetu+1.0;10%C3%97+Hackathon+Finalist;CSE+Student+%40+CIT" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F5E36A"/>
-
-</div>
-
----
-
-# 💫 About Me  
-I’m **Sutharsan**, a professional **Full-Stack + AI/ML Developer** passionate about building reliable, scalable, and impactful software systems.
-
-I specialize in:  
-- **Full-stack engineering** (Flutter, React, Express.js, Firebase)  
-- **AI/ML pipelines & applied machine learning**  
-- **Problem solving** with 700+ LeetCode problems  
-- **Hackathon engineering** (10× Finalist, HackSetu 1.0 Runner-Up)
-
-Focused, consistent, and always learning — I aim to build technology that solves real problems with clean engineering and strong foundations.
-
----
-
-# 🧩 Profiles  
-**LeetCode:**  
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sutharsan07?theme=dark&font=K2D&ext=contest&border=0&radius=8" />
-</p>
-
-**Codolio Card:**  
-<p align="center">
-  <a href="https://codolio.com/profile/sutharsan/card">
-    <img src="https://img.shields.io/badge/Codolio-Developer%20Card-F5E36A?style=for-the-badge&color=000"/>
-  </a>
-</p>
-
----
-
-# 🌐 Socials  
-<p align="center">
-<a href="https://www.linkedin.com/in/sutharsantp/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F5E36A" /></a>
-<a href="mailto:sudhuacademics@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=F5E36A" /></a>
-</p>
-
----
-
-# 💻 Tech Stack
-
-### Languages  
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B&logoColor=F5E36A)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=F5E36A)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=F5E36A)
-![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=F5E36A)
-
-### Frontend / Mobile  
-![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=F5E36A)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=F5E36A)
-![React Native](https://img.shields.io/badge/React%20Native-000?style=for-the-badge&logo=react&logoColor=F5E36A)
-
-### Backend  
-![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=F5E36A)
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=F5E36A)
-![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=F5E36A)
-
-### Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=F5E36A)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=F5E36A)
-
-### Machine Learning  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow&logoColor=F5E36A)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-000?style=for-the-badge&logo=scikit-learn&logoColor=F5E36A)
-
----
-
-# 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sutharsan-TP&theme=great-gatsby&show_icons=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=Sutharsan-TP&theme=great-gatsby" height="160" />
-</div>
-
----
-
-# 🏆 GitHub Trophies  
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sutharsan-TP&theme=juicyfresh&no-frame=true&margin-w=10" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="900" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
